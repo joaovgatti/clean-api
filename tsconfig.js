@@ -1,8 +1,0 @@
-{
-    "compilerOptions" = "./dist",
-    "module" = "commonjs",
-    "target" = "es2019",
-    "esModuleInterop" = true,
-    "allowJs" = true
-
-} 
